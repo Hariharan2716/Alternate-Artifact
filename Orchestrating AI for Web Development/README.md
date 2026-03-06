@@ -22,7 +22,7 @@ A running **prototype generated with AI assistance**.
 
 # Why This Skill Matters
 
-Many students use AI like this:
+Many use AI like this:
 
 Prompt → Copy Code → Error → Confusion
 
@@ -52,7 +52,7 @@ After completing this unit, you will be able to:
 
 | Stage         | What Happens                   |
 |---------------|--------------------------------|
-| Hook          | Why most students fail with AI |
+| Hook          | Why most fail with AI          |
 | Core Concepts | AI orchestration model         |
 | Activity      | Build a web app with AI        |
 | Reflection    | AI risks and boundaries        |
@@ -92,7 +92,7 @@ AI assists at **every stage**, but the **human controls the process**.
 
 # AI Builder Workflow
 
-Mental model for students:
+Mental model for developers:
 
 Idea  
 ↓  
@@ -128,7 +128,7 @@ AI should be seen as **a team of assistants**.
 
 ---
 
-# AI Tools Students Can Use
+# AI Tools Developers Can Use
 
 | Stage           | Tool Type                |
 |-----------------|--------------------------|
@@ -138,7 +138,7 @@ AI should be seen as **a team of assistants**.
 | UI design       | AI design tools          |
 | Deployment      | Modern hosting platforms |
 
-Students should **combine tools instead of relying on only one**.
+Developers should **combine tools instead of relying on only one**.
 
 ---
 
@@ -178,7 +178,7 @@ Break this application into:
 - Backend logic  
 - Database schema  
 
-Students begin to see **engineering thinking**.
+Developers begin to see **engineering thinking**.
 
 ---
 
@@ -216,7 +216,6 @@ AI becomes a **debugging assistant**.
 
 ### Where does AI improve learning?
 
-Possible answers:
 - generating examples
 - faster debugging
 - understanding unfamiliar code
@@ -278,7 +277,7 @@ Prompt → Copy → Submit
 
 # Final Outcome
 
-should now be able to:
+Developers should now be able to:
 
 - turn an idea into a product plan
 - generate effective prompts
